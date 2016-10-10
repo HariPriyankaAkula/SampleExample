@@ -17,7 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"Added another file");
-    NSLog(@"After deleting and adding new comment");
+    NSLog(@"After deleting and adding new comment...");
     // Do any additional setup after loading the view.
 }
 
