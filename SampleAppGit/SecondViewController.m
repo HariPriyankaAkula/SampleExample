@@ -16,7 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    NSLog(@"added another project");
+    NSLog(@"added another project..");
     // Do any additional setup after loading the view.
 }
 
